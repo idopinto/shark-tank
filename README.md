@@ -8,7 +8,7 @@
 
 Clone it!
 ```
-https://github.com/idopinto/shark-tank.git
+git clone https://github.com/idopinto/shark-tank.git
 ```
 
 Go into the project directory and run the command:
