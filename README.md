@@ -8,18 +8,18 @@
 
 Clone it!
 ```
-$ git clone git@github.com:idopinto/shark-tank.git
+https://github.com/idopinto/shark-tank.git
 ```
 
 Go into the project directory and run the command:
 ```
-$ npm install
+npm install
 ```
 to install node modules
 
 Run the command
 ```
-$ npm start
+npm start
 ```
 Enjoy ;)
 # Flow 
