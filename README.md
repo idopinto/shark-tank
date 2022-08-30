@@ -18,6 +18,8 @@ cd shark-tank
 then, run the command:
 ```
 npm install
+npm audit fix
+npm install react-is
 ```
 to install node modules.
 
