@@ -13,11 +13,15 @@ git clone https://github.com/idopinto/shark-tank.git
 
 Go into the project directory and run the command:
 ```
+cd shark-tank
+```
+then, run the command:
+```
 npm install
 ```
-to install node modules
+to install node modules.
 
-Run the command
+Finally, run the command:
 ```
 npm start
 ```
